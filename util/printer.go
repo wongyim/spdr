@@ -1,6 +1,5 @@
-/*lib for print
-author:wongyim
-date:20170706
-*/
-package util
+//Lib for print
+//author:wongyim
+//date:20170706
 
+package util
